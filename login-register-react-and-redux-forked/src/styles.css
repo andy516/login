@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.error {
+  position: absolute !important;
+  width: 100% !important;
+  z-index: 15;
+  top: 0;
+  left: 0;
+}

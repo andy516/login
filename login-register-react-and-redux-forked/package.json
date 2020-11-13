@@ -1,0 +1,39 @@
+{
+  "name": "login-register-react-and-redux",
+  "version": "1.0.0",
+  "description": "There is no database, this is simply a login/register menu I made with React and Redux. Its only ment to simulate having a backend.",
+  "keywords": [
+    "javascript",
+    "react",
+    "redux",
+    "login",
+    "gister"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "bulma": "0.7.4",
+    "connected-react-router": "^6.8.0",
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-redux": "6.0.1",
+    "react-router-dom": "5.0.0",
+    "react-scripts": "2.1.8",
+    "redux": "4.0.1",
+    "redux-devtools-extension": "2.13.8"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
